@@ -1,4 +1,4 @@
-# vue_shop
+# 经典vue-cli脚手架生成的vue2项目 包含路由、状态管理等。
 
 ## Project setup
 ```
