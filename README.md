@@ -1,4 +1,4 @@
-﻿# 经典vue-cli脚手架生成的vue2项目 包含路由vue-router、状态管理vuex等。
+﻿# 经典vue-cli脚手架生成的vue2项目 包含路由vue-router、状态管理vuex等。使用webpack打包。
 
 ## Project setup
 ```
